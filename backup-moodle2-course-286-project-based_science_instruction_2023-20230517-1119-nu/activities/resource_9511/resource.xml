@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="295" moduleid="9511" modulename="resource" contextid="63126">
+  <resource id="295">
+    <name>Mapping Science Education to Career Paths</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em&gt;The default view opens the unit in this browser window. For optimal viewing, click the following link to open in a new window: &lt;a href="https://courses.lincs.ed.gov/pluginfile.php/63126/mod_resource/content/13/content/index.html" target="_blank"&gt;Open Unit 3 in a new browser window&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>14</revision>
+    <timemodified>1683912321</timemodified>
+  </resource>
+</activity>

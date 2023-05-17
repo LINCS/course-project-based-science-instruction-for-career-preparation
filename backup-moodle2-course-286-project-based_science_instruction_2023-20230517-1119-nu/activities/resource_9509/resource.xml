@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="293" moduleid="9509" modulename="resource" contextid="63124">
+  <resource id="293">
+    <name>Using Project-Based Learning to Connect Science Instruction to Daily Life</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em&gt;The default view opens the unit in this browser window.&amp;nbsp;&lt;em&gt;&lt;em&gt;For optimal viewing, click the following link to open in a new window&lt;/em&gt;:&lt;/em&gt;&lt;a href="https://courses.lincs.ed.gov/pluginfile.php/63124/mod_resource/content/20/content/index.html" target="_blank"&gt;&amp;nbsp;Open Unit 1 in a new browser window&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>21</revision>
+    <timemodified>1683911706</timemodified>
+  </resource>
+</activity>

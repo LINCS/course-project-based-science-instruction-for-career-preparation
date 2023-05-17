@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module id="9516" version="2016052300">
+  <modulename>certificate</modulename>
+  <sectionid>2676</sectionid>
+  <sectionnumber>5</sectionnumber>
+  <idnumber></idnumber>
+  <added>1408391994</added>
+  <score>0</score>
+  <indent>1</indent>
+  <visible>1</visible>
+  <visibleoncoursepage>1</visibleoncoursepage>
+  <visibleold>1</visibleold>
+  <groupmode>0</groupmode>
+  <groupingid>0</groupingid>
+  <completion>0</completion>
+  <completiongradeitemnumber>$@NULL@$</completiongradeitemnumber>
+  <completionview>0</completionview>
+  <completionexpected>0</completionexpected>
+  <availability>{"op":"&amp;","showc":[false,true,true,true,true,true],"c":[{"type":"completion","cm":9506,"e":1},{"type":"completion","cm":9509,"e":1},{"type":"completion","cm":9510,"e":1},{"type":"completion","cm":9511,"e":1},{"type":"completion","cm":9512,"e":1},{"type":"completion","cm":9514,"e":1}]}</availability>
+  <showdescription>0</showdescription>
+  <tags>
+  </tags>
+</module>

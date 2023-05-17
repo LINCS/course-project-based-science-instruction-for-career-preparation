@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="239" moduleid="9516" modulename="certificate" contextid="63131">
+  <certificate id="239">
+    <name>Certificate of Completion - Project Based Science Instruction</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <emailteachers>0</emailteachers>
+    <emailothers></emailothers>
+    <savecert>1</savecert>
+    <reportcert>0</reportcert>
+    <delivery>0</delivery>
+    <certificatetype>lincs</certificatetype>
+    <orientation>L</orientation>
+    <borderstyle>0</borderstyle>
+    <bordercolor>0</bordercolor>
+    <printwmark>0</printwmark>
+    <printdate>1</printdate>
+    <datefmt>1</datefmt>
+    <printnumber>0</printnumber>
+    <printgrade>0</printgrade>
+    <gradefmt>1</gradefmt>
+    <printoutcome>0</printoutcome>
+    <printhours>2.5</printhours>
+    <printteacher>0</printteacher>
+    <customtext></customtext>
+    <printsignature>dael-signature.png</printsignature>
+    <printseal>0</printseal>
+    <timecreated>1408391994</timecreated>
+    <timemodified>1677021253</timemodified>
+    <issues>
+    </issues>
+  </certificate>
+</activity>

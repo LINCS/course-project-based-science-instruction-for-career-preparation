@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="24" moduleid="9508" modulename="glossary" contextid="63123">
+  <glossary id="24">
+    <name>Project-Based Science Key Terms</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;The glossary contains common terms and acronyms used to describe project-based learning for career preparation. It is intended to aid in your understanding of new vocabulary and concepts introduced in the units.&amp;nbsp;At any point during the course, return here to refer to the glossary to check your understanding.&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <allowduplicatedentries>0</allowduplicatedentries>
+    <displayformat>dictionary</displayformat>
+    <mainglossary>1</mainglossary>
+    <showspecial>1</showspecial>
+    <showalphabet>1</showalphabet>
+    <showall>1</showall>
+    <allowcomments>0</allowcomments>
+    <allowprintview>1</allowprintview>
+    <usedynalink>1</usedynalink>
+    <defaultapproval>1</defaultapproval>
+    <globalglossary>0</globalglossary>
+    <entbypage>10</entbypage>
+    <editalways>0</editalways>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <timecreated>1658787717</timecreated>
+    <timemodified>1658788175</timemodified>
+    <completionentries>0</completionentries>
+    <entries>
+    </entries>
+    <entriestags>
+    </entriestags>
+    <categories>
+    </categories>
+  </glossary>
+</activity>

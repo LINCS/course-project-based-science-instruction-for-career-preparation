@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2056" moduleid="9515" modulename="label" contextid="63130">
+  <label id="2056">
+    <name>Certificate of CompletionSelect the link to downlo...</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;&lt;b&gt;Certificate of Completion&lt;/b&gt;&lt;/span&gt;&lt;/h5&gt;&lt;span style="font-size: 1.7rem;"&gt;Select the link to download your certificate after you've completed all of course units.&lt;/span&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1658781972</timemodified>
+  </label>
+</activity>

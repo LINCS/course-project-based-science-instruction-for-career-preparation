@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2192" moduleid="9506" modulename="page" contextid="63121">
+  <page id="2192">
+    <name>Reflect on Your Current Practices</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="color: #495057; font-size: 1.7rem; font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;"&gt;Before beginning this course, let's take a moment to reflect on your own practices of integrating science into your adult education classroom and helping your learners prepare for a career. &lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="color: #495057; font-size: 1.7rem; font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;"&gt;Project-Based Learning (PBL) has been used in adult education for decades. You may already be using this model of teaching.&lt;/span&gt;&lt;/h2&gt;
+&lt;div id="intro"&gt;
+&lt;p&gt;Before beginning this course, take a moment to reflect on your own practices of integrating science into your adult education classroom and helping your learners prepare for a career. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Do you incorporate any of these specific strategies, activities, and methods in your teaching? &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Creating learning opportunities that involve learner choice, voice, and autonomy;&lt;/li&gt;
+&lt;li&gt;Incorporating students’ science knowledge and expertise into instruction;&lt;/li&gt;
+&lt;li&gt;Involving learners in understanding and creating solutions to real-world issues;&lt;/li&gt;
+&lt;li&gt;Designing activities that promote critical thinking and problem solving;&lt;/li&gt;
+&lt;li&gt;Using online resources to guide adult learners in exploring careers in science;&lt;/li&gt;
+&lt;li&gt;Providing activities that teach science content through inquiry, experimentation, and hands-on practice; and&lt;/li&gt;
+&lt;li&gt;Having students produce tangible projects with meaningful outcomes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;For this activity and several others throughout the course, we will use the &lt;em&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2023-01/Project-Based%20Science%20Self-Reflection%20Handout.pdf" target="_blank"&gt;Self-Reflection Handout for Project-Based Science Instruction for Career Pathways&lt;/a&gt;. &lt;/em&gt;Using this handout, please &lt;b&gt;Check the boxes of any of the teaching practices that you already use. &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Most likely, you have found that you are already incorporating a few of these strategies and/or methods into your classroom. That is great! You are already incorporating some of the components of PBL. Throughout this course, you will have the opportunity to refine these practices and add several more to your repertoire. Let's get started! On the next two pages, you will see a reminder for downloading the &lt;em&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2023-01/Project-Based%20Science%20Self-Reflection%20Handout.pdf" target="_blank"&gt;Self-Reflection Handout for Project-Based Science Instruction for Career Pathways&lt;/a&gt; &lt;/em&gt;as well as a glossary for the course. These are resources you can return to at any time throughout the course. Once you have downloaded the handout and refreshed yourself on any key terms that may seem unfamiliar to you and you have taken note on how to return to it, you may continue past the glossary and onto the first unit of the course&lt;strong&gt;&lt;em&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>11</revision>
+    <timemodified>1675375720</timemodified>
+  </page>
+</activity>

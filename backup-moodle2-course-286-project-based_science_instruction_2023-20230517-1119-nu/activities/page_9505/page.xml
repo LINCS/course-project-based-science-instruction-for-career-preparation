@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2191" moduleid="9505" modulename="page" contextid="63120">
+  <page id="2191">
+    <name>Course Purpose, Objectives, Organization</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style="font-size: 1.7rem;"&gt;&lt;strong&gt;After completing this course, you will be able to:&lt;/strong&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Better understand Project-Based Learning (PBL), including identifying characteristics of effective PBL and benefits of it in adult education;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Use online resources to guide adult learners in exploring careers in the five major STEM subgroups and identify ways that STEM workers use science in their careers; and&lt;br&gt;&lt;/li&gt;&lt;li&gt;Describe how adult basic education (ABE) programs are using PBL in STEM areas and identify at least one topic for a PBL initiative in an ABE classroom&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;This course is comprised of the following units:&lt;/strong&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Introduction&lt;/li&gt;&lt;li&gt;Units 1–3&lt;ul&gt;&lt;li&gt;&lt;a title="Unit 1: Using Project-Based Learning to Connect Science Instruction to Daily Life" href="https://lincs-moodle-dev.civicactions.net/mod/resource/view.php?id=4703"&gt;Unit 1: Using Project-Based Learning to Connect Science Instruction to Daily Life&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a title="Unit 2: Preparing Adults for STEM Careers via Project-Based Learning" href="https://lincs-moodle-dev.civicactions.net/mod/resource/view.php?id=4704"&gt;Unit 2: Preparing Adults for STEM Careers via Project-Based Learning&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a title="Unit 3: Mapping Science Education to Career Paths" href="https://lincs-moodle-dev.civicactions.net/mod/resource/view.php?id=4705"&gt;Unit 3: Mapping Science Education to Career Paths&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Conclusion&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1661293680</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="286" contextid="63118">
+  <shortname>Project-Based Science Instruction_2023</shortname>
+  <fullname>Project-Based Science Instruction for Career Preparation</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p&gt;Project-Based Science Instruction for Career Preparation&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Course Hours: 2 hours and 30 minutes&lt;/p&gt;&lt;p&gt;Course Description: This course is designed to facilitate the teaching of science in adult education classrooms using a Project-Based Learning (PBL) model. This course makes the connections between science content knowledge and how adults use science in their daily lives, especially in work and career-related contexts. Those that will benefit the most from this course are adult education instructors, trainers, and coordinators, particularly those in Adult Basic Education (ABE), Adult Secondary Education (ASE), and STEM Career Technical Education (CTE). By the end of the course, participants will be able to better understand PBL, including identifying characteristics of effective PBL and benefits of it in adult education, use online resources to guide adult learners in exploring careers in the five major STEM subgroups and identify ways that STEM workers use science in their careers, and describe how ABE programs are using PBL in STEM areas and identify at least one topic for a PBL initiative in an ABE classroom.&lt;br&gt;&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1407988800</startdate>
+  <enddate>0</enddate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en_us</lang>
+  <theme></theme>
+  <timecreated>1407954092</timecreated>
+  <timemodified>1683646846</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>5</numsections>
+  <hiddensections>1</hiddensections>
+  <displayinstructions>0</displayinstructions>
+  <layoutelement>0</layoutelement>
+  <layoutstructure>0</layoutstructure>
+  <layoutcolumns>0</layoutcolumns>
+  <layoutcolumnorientation>0</layoutcolumnorientation>
+  <toggleallenabled>0</toggleallenabled>
+  <viewsinglesectionenabled>0</viewsinglesectionenabled>
+  <togglealignment>0</togglealignment>
+  <toggleiconposition>0</toggleiconposition>
+  <toggleiconset>-</toggleiconset>
+  <onesection>0</onesection>
+  <toggleallhover>0</toggleallhover>
+  <toggleforegroundcolour>-</toggleforegroundcolour>
+  <toggleforegroundopacity>-</toggleforegroundopacity>
+  <toggleforegroundhovercolour>-</toggleforegroundhovercolour>
+  <toggleforegroundhoveropacity>-</toggleforegroundhoveropacity>
+  <togglebackgroundcolour>-</togglebackgroundcolour>
+  <togglebackgroundopacity>-</togglebackgroundopacity>
+  <togglebackgroundhovercolour>-</togglebackgroundhovercolour>
+  <togglebackgroundhoveropacity>-</togglebackgroundhoveropacity>
+  <showsectionsummary>0</showsectionsummary>
+  <showadditionalmoddata>0</showadditionalmoddata>
+  <category id="4">
+    <name>Science </name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+  <customfields>
+  </customfields>
+</course>
