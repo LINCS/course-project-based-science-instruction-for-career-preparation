@@ -1,1 +1,1 @@
-# course-project-based-science-instruction-for-career-preperation
+# course-project-based-science-instruction-for-career-preparation
